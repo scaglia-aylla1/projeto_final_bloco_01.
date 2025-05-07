@@ -115,6 +115,10 @@ classDiagram
 <div align="center"> <img src="https://i.imgur.com/GvRdEvC.png" title="source: imgur.com" width="90%"/> </div>
 <br />
 
+## 🎨 Interface
+
+A interface é via terminal (console), com uso de cores ANSI para melhor visualização.
+
 ## Requisitos
 
 <br />
