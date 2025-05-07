@@ -2,7 +2,7 @@ package projeto_final.model;
 
 import java.text.NumberFormat;
 
-public class Livros {
+public abstract class Livros {
 	
 	private int id;
 	private String nome;

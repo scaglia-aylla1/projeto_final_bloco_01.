@@ -28,6 +28,7 @@ public class Ebook extends Livros{
 	public void visualizar() {
 		super.visualizar();
 		System.out.println("Formato: " + this.formato);
+		System.out.println("Preço final: " + precoFinal());
 		
 	}
 	
