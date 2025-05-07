@@ -25,6 +25,7 @@ public class Fisico extends Livros{
 	public void visualizar() {
 		super.visualizar();
 		System.out.println("Frete: " + this.frete);
+		System.out.println("Preço final: " + precoFinal());
 		
 	}
 	
